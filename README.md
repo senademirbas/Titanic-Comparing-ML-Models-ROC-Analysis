@@ -6,7 +6,8 @@ Bu proje, Kaggle Titanic veri seti kullanılarak yolcuların hayatta kalıp kalm
 
 ## ROC Curve Karşılaştırması
 
-![ROC Curve](images/roc_comparison.png)
+![ROC Curve](images/roc_comparison_before.png)
+![ROC Curve](images/roc_comparison_after.png)
 
 *Tuning öncesi ve sonrası LightGBM modeli ROC eğrisi.*
 
