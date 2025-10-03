@@ -4,6 +4,7 @@ Bu proje, Kaggle Titanic veri seti kullanılarak yolcuların hayatta kalıp kalm
 
 ---
 
+
 ## ROC Curve Karşılaştırması
 
 ![ROC Curve](images/roc_comparison_before.png)
